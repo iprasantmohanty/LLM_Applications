@@ -1,0 +1,16 @@
+streamlit
+google.generativeai
+python-dotenv
+langchain
+PyPDF2
+faiss-cpu
+langchain_google_genai
+youtube_transcript_api
+pathlib
+matplotlib
+xgboost
+lightgbm
+scikit-learn
+
+
+
