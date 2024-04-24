@@ -1,5 +1,5 @@
-## Personalized Multi-Disease Prevention App
-link - https://multi-disease.streamlit.app/
+## YouTube Video to Detailed Notes Converter
+link - https://youtube-notes.streamlit.app/
 
 
 ## Counting Calories from Food Photo
